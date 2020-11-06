@@ -92,6 +92,12 @@ a {
 .right-menu i {
     color: #999;
 }
+
+.right-menu .fa-user {
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    padding: 0.5em;
+}
 /* Showcase*/
 
 .showcase {
