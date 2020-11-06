@@ -1,0 +1,1 @@
+Microsoft homepage built by using chromeDev tools to inspect the original Microsoft homepage website
